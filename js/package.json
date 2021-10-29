@@ -1,0 +1,25 @@
+{
+  "name": "flagemoji",
+  "version": "0.1.1",
+  "description": "emoji flag generation with very low payload",
+  "main": "index.js",
+  "keywords": [
+    "emoji",
+    "flag"
+  ],
+  "homepage": "https://github.com/KarpelesLab/flagemoji",
+  "bugs": "https://github.com/KarpelesLab/flagemoji/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarpelesLab/flagemoji"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Karpeles <mark@klb.jp> https://klb.jp",
+  "license": "MIT",
+  "lock": false
+}
